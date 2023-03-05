@@ -10,7 +10,7 @@ try:
     host="localhost",
     user="root",
     password="root",
-    database="project"  
+    database="<database name>"  
   )
 except Exception:
   print ("Sorry, something went wrong. Please try again")
