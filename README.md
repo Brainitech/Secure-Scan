@@ -5,7 +5,7 @@ A safe and secure deposit and withdrawl solution and a database system to manage
 
 Python code by: [brainitech](https://www.github.com/brainitech)
 
-Front-end by: [ryuux21](https://www.github.com/ryuux21)
+Front-end by: [ryuux21](ryuux21.github.io)
 
 
 
