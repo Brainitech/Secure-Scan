@@ -3,9 +3,9 @@ RFID mobile collection system for colleges and schools
 
 A safe and secure deposit and withdrawl solution and a database system to manage the submission and windrawl of phones in highschool.
 
-Python code by: Brainitech
+Python code by: [brainitech](https://www.github.com/brainitech)
 
-Front-end by: ryuux21
+Front-end by: [ryuux21](https://www.github.com/ryuux21)
 
 
 
