@@ -1,5 +1,13 @@
 # Secure-Scan
 RFID mobile collection system for colleges and schools
+
+A safe and secure deposit and withdrawl solution and a database system to manage the submission and windrawl of phones in highschool.
+
+Python code by: Brainitech
+Front-end by: ryuux21
+
+
+
 currently using sql database but can be changed for csv file if a database is available. 
 need some alltering.
 Current code scans A rfid to add students to the database. 
